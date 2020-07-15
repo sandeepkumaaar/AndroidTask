@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTask</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an Account ?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="logout">Logout</string>
+    <string name="already_have_an_account">Already have an Account ?</string>
+    <string name="type">Type</string>
+</resources>
